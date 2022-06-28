@@ -27,3 +27,15 @@ git push -u origin main
 git remote add origin https://github.com/PercivalOVico/betchip-exchange.git
 git branch -M main
 git push -u origin main
+
+
+Site Created
+
+Admin URL: https://app.netlify.com/sites/betchip-exchange
+URL:       https://betchip-exchange.netlify.app
+Site ID:   23074796-4dce-4f2d-bbdb-493e59961ff0
+
+Linked to betchip-exchange in /Users/mac/Documents/blockchain/betchip-exchange/.netlify/state.json
+
+coin market cap API KEY
+08396b16-33fc-4537-8459-4258d57473f3

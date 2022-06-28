@@ -45,7 +45,7 @@ const Trending = () => {
     return <div className="text-white">
         <div className={styles.trendingWrapper}>
             <div className="flex justify-between">
-                <h1 className={styles.h1}>Todays Cryptocurrency Prices by Market Cap</h1>
+                <h1 className={styles.h1}>Betchip P2P Exchange Platform</h1>
 
                 <div className="flex">
                     <p className="text-gray-400 ">Highlights &nbsp;</p>
@@ -54,9 +54,9 @@ const Trending = () => {
             </div>
             <br />
             <div className="flex">
-                <p>The global crypto market cap is $1.74T, a &nbsp; </p>
-                <span> <Rate isIncrement={true} rate='0.53%' /> </span>
-                <p> &nbsp; decrease over the last day. <span className="underline">Read More</span> </p>
+                <p>BETCHIP is part of the Crypto Martket that is now worth $1.74T.&nbsp;&nbsp; Take part in the &nbsp; </p>
+                <span> <Rate isIncrement={true} rate='0.87%' /> </span>
+                <p> &nbsp; investment returns with the BETCHIP RECOMMENDED Tokens  <span className="underline">Read More</span> </p>
             </div>
             <br />
 
