@@ -6,8 +6,8 @@ import { CoinMarketProvider } from '../context/context'
 function MyApp({ Component, pageProps }) {
   return (
     <MoralisProvider
-      serverUrl='https://gqasdf4tkkiu.usemoralis.com:2053/server'
-      appId='TL0YJzCoVXgYv0fMKfzmgD52UaoaMllZI1DxTJWJ'
+       serverUrl={process.env.NEXT_PUBLIC_SERVER}
+       appId={process.env.NEXT_PUBLIC_APP_ID}
     >
       <GunProvider>
         <CoinMarketProvider>
